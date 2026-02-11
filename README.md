@@ -1,5 +1,3 @@
-# Not-a-Virus-I-PROMISE
-hi baby, please click this
 <!DOCTYPE html>
 <html lang="en">
 <head>
